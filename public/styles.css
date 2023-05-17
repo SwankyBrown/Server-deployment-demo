@@ -4,10 +4,10 @@
 
 button {
     background-color: black;
-    color: white;
+    color: rgb(252, 3, 3);
     border: none;
-    border-right: 2px solid aqua;
-    border-bottom: 2px solid aqua;
+    border-right: 2px solid rgb(169, 254, 0);
+    border-bottom: 2px solid rgb(255, 255, 255);
     padding: 10px 20px;
     font-weight: bold;
     cursor: pointer;
