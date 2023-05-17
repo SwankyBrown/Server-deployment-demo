@@ -1,8 +1,7 @@
 const { response } = require("express")
 
 const btn = document.querySelector('button')
-const otherBtn = document.getElementById('post')
-const clickHandler = () => alert('The cat name is: Rascal')
+const clickHandler = () => alert('what have you done')
 
 btn.addEventListener('click', clickHandler)
 otherBtn.addEventListener('click', () => {
